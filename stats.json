@@ -2,9 +2,19 @@
   "username": "sunildev09",
   "currentStreak": 1,
   "longestStreak": 1,
-  "totalSolved": 1,
+  "totalSolved": 2,
   "lastPushDate": "2026-04-23",
   "signupDate": "2026-04-23T18:25:25.298Z",
-  "battles": [],
+  "battles": [
+    {
+      "createdAt": "2026-04-23T18:30:14.175Z",
+      "duration": 7,
+      "endDate": "2026-04-30",
+      "id": "battle_mobtgy2a",
+      "opponent": "deenu-cse",
+      "status": "active",
+      "type": "7-day-sprint"
+    }
+  ],
   "badges": []
 }
